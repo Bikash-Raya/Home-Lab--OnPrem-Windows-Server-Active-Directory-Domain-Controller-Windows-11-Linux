@@ -15,19 +15,17 @@
 ---
 
 **Prepared by:** Bikash Raya
-**Project Type:** Home Lab Infrastructure & System Administration
 
 </div>
 
 ---
 
-## 📁 Repository Structure
+## 📁 Full Lab Walkthrough — Proof of Work
 
-| File                | Description                    |
-| ------------------- | ------------------------------ |
-| [Home-Lab-Report.pdf](https://github.com/Bikash-Raya/Home-Lab-Setup/blob/main/Home-Lab-Report.pdf) | Complete project documentation |
-| [Lab Screenshots.pdf](https://github.com/Bikash-Raya/Home-Lab-Setup/blob/main/Lab%20Screenshots.pdf) | Screenshots |
-| README.md           | Project overview               |
+| File | Description |
+| --- | --- |
+| [Home-Lab-Report.pdf](./Home-Lab-Report.pdf) | Hands-on lab walkthrough with screenshots |
+
 
 ---
 ## 📋 Overview
@@ -166,6 +164,19 @@ The lab simulates a small internal network consisting of:
 ## 🎯 Key Takeaway
 
 > This project demonstrates practical experience in deploying and managing a Windows-based Active Directory environment, integrating Windows and Linux systems, configuring DNS services, troubleshooting network connectivity issues, and administering virtualized infrastructure using VMware Workstation.
+
+---
+
+## 🔗 Related Projects
+
+> Part of the **Bikash Security Lab** series:
+> * [System Hardening Lab — Linux, Windows Server & AD](https://github.com/Bikash-Raya/system-hardening-lab-linux-windows-active-directory)
+> * [AD Enumeration — BloodHound & SharpHound](https://github.com/Bikash-Raya/AD-Enumeration-Bloodhound-Sharphound)
+> * [Nessus Vulnerability Management Lab](https://github.com/Bikash-Raya/Nessus-Vulnerability-Management-Lab)
+
+---
+
+> 📄 Thanks for reading! For a full hands-on walkthrough of this lab with screenshots — [download the lab report here](./Home-Lab-Report.pdf)
 
 ---
 
